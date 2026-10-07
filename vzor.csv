@@ -1,0 +1,6 @@
+Datum;Doklad;Popis;MD;DAL;Částka
+03.09.2026;FV001;Faktura odběratel;311;602;12 100,00
+05.09.2026;BV001;Úhrada faktury;221;311;12 100,00
+10.09.2026;FP001;Kancelářské potřeby;501;321;1 450,50
+15.09.2026;BV002;Úhrada dodavateli;321;221;1 450,50
+30.09.2026;VP001;Mzdy;521;331;25 000,00
